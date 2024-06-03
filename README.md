@@ -1,4 +1,4 @@
-# Projeto-jQuery
+# Projeto-jQuery-Apex Voyages
 Apex Voyages
 "Apex Voyages" foi desenvolvido como parte de um desafio proposto pela Programadores do Amanhã. O objetivo era criar uma página web que utilizasse jQuery para a internacionalização. O projeto consiste em uma landing page para uma agência de viagem, onde o conteúdo da página é atualizado dinamicamente com base no idioma selecionado pelo usuário.
 
